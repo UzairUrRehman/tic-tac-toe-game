@@ -45,12 +45,6 @@ The program supports continuous gameplay through a replay mechanism without rest
 - A draw is declared when all cells are filled without a winner
 
 ---
-
-## Project Structure
-tic-tac-toe-cpp/
-│── src/
-│   └── main.cpp
-│── README.md
 │── .gitignore
 
 
