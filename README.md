@@ -47,9 +47,10 @@ The program supports continuous gameplay through a replay mechanism without rest
 ---
 
 ## Project Structure
-tic_tac_toe/
-├── tic_tac_toe_game.cpp # Main game code
-├── tic_tac_toe_game.sln # Visual Studio solution file
-├── tic_tac_toe_game.vcxproj # Visual Studio project file
-├── tic_tac_toe_game.vcxproj.filters # Project filters file
-└── README.md # Project documentation
+
+- **tic_tac_toe/**  
+  - `tic_tac_toe_game.cpp` → Main game code  
+  - `tic_tac_toe_game.sln` → Visual Studio solution file  
+  - `tic_tac_toe_game.vcxproj` → Visual Studio project file  
+  - `tic_tac_toe_game.vcxproj.filters` → Project filters file  
+  - `README.md` → Project documentation
