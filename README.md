@@ -43,3 +43,7 @@ The program supports continuous gameplay through a replay mechanism without rest
   - Vertical wins
   - Diagonal wins
 - A draw is declared when all cells are filled without a winner
+
+---
+
+## Project Structure
